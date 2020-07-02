@@ -1,4 +1,4 @@
-![trivia game](/assets/images/trivia1.jpg)
+![trivia game]/trivia1.png)
 
 # TriviaGame
 Game randomizes question and allows the user to guess the answer
